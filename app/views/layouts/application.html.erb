@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>UnivContact</title>
+  <title>Contact-Manager</title>
   <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true,:cache => true %>
   <%= csrf_meta_tags %>
@@ -22,7 +22,7 @@
             <span class="icon-bar"></span>
           </button>
 
-          <%= link_to "UnivContact", root_path, class: "navbar-brand text-uppercase" %>          
+          <%= link_to "Contact-Manager", root_path, class: "navbar-brand text-uppercase" %>          
         </div>
         <!-- /.navbar-header -->
         <% if user_signed_in? %>
@@ -125,7 +125,7 @@
    
       <footer id="sticky-footer" class="py-4 bg-dark text-white-50" style="flex-shrink: none;">
           <div class="container text-center">
-            <small>Copyright &copy; UnivContact</small>
+            <small>Copyright &copy; Contact-Manager</small>
           </div>
       </footer>
    
