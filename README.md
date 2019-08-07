@@ -1,7 +1,7 @@
-#   UnivContact
+#   Contact-Manager
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-UnivContact is a Contact management app for university Library. It is build using Ruby on rails and SQLite.
+Contact-Manager is a Contact management app for university Library. It is build using Ruby on rails and SQLite.
 
 ## Prerequisite
  * Ruby 2.5+
@@ -9,8 +9,8 @@ UnivContact is a Contact management app for university Library. It is build usin
 
 ## Installation
 ```bash
-$git clone https://github.com/AkhilGKrishnan/ContactManagement.git
-$cd ContactManagement
+$git clone https://github.com/Ganeshunnikrishnan/Contat-manage.git
+$cd Contat-manage
 $bundle install
 $rake db:create
 $rake db:migrate
