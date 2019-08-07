@@ -28,5 +28,5 @@ Use this APP : https://contatmanage.herokuapp.com/
 
 ## License & Copyrights
 
-(c) Akhil G Krishnan
+(c) Ganesh Unnikrishnan 
 Lincensed under [MIT LICENSE](LICENSE).
